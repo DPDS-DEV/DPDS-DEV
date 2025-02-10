@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer | Focus, Commitment, and Continuous Growth<br><br>Developer with expertise in HTML, CSS, and JavaScript, dedicated to building complete solutions, covering both front-end and back-end development. Committed to implementing structured systems while adhering to industry standards and best practices.<br><br>✨ Key Competencies:<br>✔️ Development of responsive and efficient web applications<br>✔️ Structuring scalable code and maintaining best practices<br>✔️ Continuous learning in line with new technologies and methodologies<br><br>🚀 This repository showcases projects that demonstrate my professional growth and commitment to delivering effective solutions.<br><br>📬 Open to collaborations and new opportunities.</p>
+<p align="left">💻 Full Stack Developer | Focus, Commitment, and Continuous Growth<br><br>Developer with expertise in  JavaScript, typescript and Python dedicated to building complete solutions, covering both front-end and back-end development. Committed to implementing structured systems while adhering to industry standards and best practices.<br><br>✨ Key Competencies:<br>✔️ Development of responsive and efficient web applications<br>✔️ Structuring scalable code and maintaining best practices<br>✔️ Continuous learning in line with new technologies and methodologies<br><br>🚀 This repository showcases projects that demonstrate my professional growth and commitment to delivering effective solutions.<br><br>📬 Open to collaborations and new opportunities.</p>
 
 ###
 
@@ -35,19 +35,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
